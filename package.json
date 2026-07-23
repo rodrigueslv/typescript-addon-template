@@ -1,0 +1,22 @@
+{
+  "name": "bedrock-addon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  
+  "keywords": [],
+  "author": "rodrigueslv",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@minecraft/server": "^2.8.0",
+    "@minecraft/server-ui": "^2.1.0"
+  }
+}
