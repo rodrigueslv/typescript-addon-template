@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/node_modules/": true,
+        "**/.git": true,
+        "**/BP/": true,
+        "**/RP/": true,
+        "**/package-lock.json": true,
+        "**/package.json": true,
+        "**/.vscode": true,
+        "**/.bridge/": true
+    }
+}
