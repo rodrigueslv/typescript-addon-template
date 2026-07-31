@@ -5,7 +5,6 @@
         "**/BP/": true,
         "**/RP/": true,
         "**/package-lock.json": true,
-        "**/package.json": true,
         "**/.vscode": true,
         "**/.bridge/": true
     }
